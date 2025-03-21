@@ -6,3 +6,6 @@ Team member:
 · Anuapa KUJUR
 · Jinyu LIU
 · Leyao HUANG
+
+API：
+https://developers.facebook.com/docs/facebook-login/guides/access-tokens
